@@ -1,8 +1,8 @@
 <p align="center">
-    <img width="480" src="master/assets/images/preview.png">
+    <img width="480" src="assets/images/preview.png">
 </p>
 
-##Description
+## Description
 This is a Drum playing app developed with HTML, CSS and JavaScript.
 
 
