@@ -3,7 +3,7 @@
 </p>
 
 ## Description
-This is a Drum playing app developed with HTML, CSS and JavaScript.
+This is a Drum playing app developed with JavaScript.
 
 
 There are two ways of playing songs with this drum app.
